@@ -1,1 +1,1 @@
-This is a webpage that will include some links and images of recipes in order to demonstrate the introductory HTML skills I have learned.
+This webpage will demonstrate what I have learned about HTML, Git, and directory structure and navigation.
