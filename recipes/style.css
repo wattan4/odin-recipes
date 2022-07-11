@@ -1,0 +1,18 @@
+.img{
+    height: 400px;
+    width: auto;
+}
+
+.page{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: center;
+    text-align: center;
+}
+
+.list{
+    text-align: left;
+}
+
+.subheading{
+    text-decoration: underline;
+}
